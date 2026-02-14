@@ -1,0 +1,13 @@
+# CLion and CMake
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles/
+*.exe
+*.vcxproj*
+*.sln
+*.user
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
